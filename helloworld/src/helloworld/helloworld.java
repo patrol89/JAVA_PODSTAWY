@@ -1,4 +1,5 @@
 //definiowanie zmiennych i output w terminalu
+
 // nazwe klasy zaczynamy od duzej litery
 
 package helloworld;
