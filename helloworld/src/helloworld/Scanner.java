@@ -1,5 +1,5 @@
 package helloworld;
 
-public class scanner {
+public class Scanner {
 
 }
